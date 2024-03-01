@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "udp.h": "c",
+        "lsensor.h": "c",
+        "time.h": "c",
+        "shared.h": "c",
+        "stdbool.h": "c",
+        "udpmessages.h": "c",
+        "dipcounter.h": "c",
+        "string.h": "c",
+        "ioctl.h": "c",
+        "periodtimer.h": "c"
+    }
+}
